@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Levent Zaptiyeoğlu (@leventz)
-- 👀 I’m interested in PHP, C#, C++, HTML, CSS, PS, AI, PR, AE, Wordpress
+- 👀 I’m interested in PHP, HTML, CSS, PS, AI, PR, AE, Wordpress
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on Web Develop
 - 📫 How to reach me leventtzaptiyeoglu@gmail.com 
